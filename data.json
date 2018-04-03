@@ -1,0 +1,23 @@
+
+{
+ "career":{
+         "info":"To excel in my chosen field in a job that both challenges and inspires me."
+         },
+       "education":[
+         {
+           "degree":"SSC",
+           "school":"SCHOOL NAME",
+           "data":["2005","80%"],
+           },
+           {
+             "degree":"INTERMEDIATE",
+             "school":"COLLEGE NAME",
+             "data":["2007","80%"],
+           },
+           {
+             "degree":"GRADUATION",
+             "school":"COLLEGE NAME",
+             "data":["2011","80%"],
+           }
+       ]
+     }
